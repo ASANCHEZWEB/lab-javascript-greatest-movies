@@ -115,8 +115,7 @@ describe("Get how many movies - howManyMovies", function() {
   });
 });
 
-
- /* orderAlphabetically
+/* orderAlphabetically
  */
 
 describe("Order alphabetically - orderAlphabetically", function() {
